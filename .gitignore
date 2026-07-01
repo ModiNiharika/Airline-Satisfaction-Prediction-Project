@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.env/
+
+# Data files (add your own copies locally)
+data/
+
+# OS
+.DS_Store
+Thumbs.db
