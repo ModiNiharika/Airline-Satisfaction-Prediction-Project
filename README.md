@@ -219,7 +219,6 @@ A full project report — including background, objectives, methodology flowchar
 ## Contributors
 
 - **Niharika Modi** (S221068)
-- **Moulya Lenka** (S221065)
 
 *Guide: Siva Rama Sastry G*
 Rajiv Gandhi University of Knowledge Technologies, Srikakulam — B.Tech CSE, 2025–2026
